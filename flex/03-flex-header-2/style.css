@@ -47,6 +47,6 @@ ul {
   list-style-type: none;
 }
 
-.header {
+div .header {
   flex: 1;
 }
